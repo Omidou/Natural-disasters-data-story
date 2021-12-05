@@ -1,3 +1,14 @@
+# Natural disasters through quotes
+
+## Introduction
+
+Hello, this is some text to fill in this, [here](#methods), is a link to the second place.
+
+## Methods
+
+Place one has the fun times of linking here, but I can also link back [here](#introduction).
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Omidou/Natural-disasters-data-story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
