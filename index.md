@@ -1,6 +1,6 @@
--[Introduction](#introduction)
+1.[Introduction](#introduction)
   -[Abstract](#abstract)
--[Methods](#methods)
+2.[Methods](#methods)
 
 ## Introduction
 
