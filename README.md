@@ -1,2 +1,4 @@
-# Natural-disasters-data-story
-ADA Project: Natural disasters through quotes
+## ADA 2021 Project
+Authors: Raphael Marietan, Amine Ahmed Ghariani, Luca Bracone, Omid Karimi
+
+## Natural disasters through quotes
