@@ -1,6 +1,6 @@
-# Natural disasters through quotes
-- [Introduction](#introduction)
-- [Methods](#methods)
+-[Introduction](#introduction)
+  -[Abstract](#abstract)
+-[Methods](#methods)
 
 ## Introduction
 
