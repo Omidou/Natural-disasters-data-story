@@ -1,9 +1,10 @@
-1.[Introduction](#introduction)
+1. [Introduction](#introduction)
 
   -[Abstract](#abstract)
   
-2.[Methods](#methods)
+2. [Methods](#methods) 
 3. blabla
+
 
 ## Introduction
 
