@@ -1,11 +1,11 @@
 1. [Introduction](#introduction)
   - [Abstract](#abstract)
-  - [What data?](#what data?)
+  - [What data?](#what_data?)
   - [Methods](#methods)
 
 2. [Results](#results)
-  - [Map of natural disasters](#map of natural disatsers)
-  - [Analysis of speakers](#analysis of speakers)
+  - [Map of natural disasters](#map_of_natural_disatsers)
+  - [Analysis of speakers](#analysis_of_speakers)
 3. [Conclusion](#conclusion)
 4. [References](#references)
 
