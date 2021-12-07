@@ -1,20 +1,42 @@
 1. [Introduction](#introduction)
+  - [Abstract](#abstract)
+  - [What data?](#what data?)
+  - [Methods](#methods)
 
-  -[Abstract](#abstract)
-  
-2. [Methods](#methods) 
-3. blabla
+2. [Results](#results)
+  - [Map of natural disasters](#map of natural disatsers)
+  - [Analysis of speakers](#analysis of speakers)
+3. [Conclusion](#conclusion)
+4. [References](#references)
 
 
 ## Introduction
+ADA Project 2021
+Raphael Marietan, Amine Ahmed Ghariani, Luca Bracone, Omid Karimi
 
 ### Abstract 
+More complete abstract than the one in the readme
+
+### What data?
+QuoteBank blabla, natural disasters quotes ... + natural disasters dataset blabla 
+Lots of pretty plots from data exploration + explanations!
+
+### Methods
+Quick summary of what was done for maps + analysis of speakers (? maybe not necessary)
+
+## Results
+(--- move methods here ?)
+
+### Map of natural disasters
+Map + explanation 
+
+### Analysis of speakers
+TODO
+
+## Conclusion
 blabla
 
-## Methods
-blabla
-
-### Markdown
+### References
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
