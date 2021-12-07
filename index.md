@@ -11,14 +11,14 @@
 
 
 ## Introduction
-ADA Project 2021
+ADA Project 2021 <br/>
 Raphael Marietan, Amine Ahmed Ghariani, Luca Bracone, Omid Karimi
 
 ### Abstract 
 More complete abstract than the one in the readme
 
 ### What data?
-QuoteBank blabla, natural disasters quotes ... + natural disasters dataset blabla 
+QuoteBank blabla, natural disasters quotes ... + natural disasters dataset blabla <br/> 
 Lots of pretty plots from data exploration + explanations!
 
 ### Methods
