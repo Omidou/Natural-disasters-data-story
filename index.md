@@ -22,6 +22,8 @@ Lots of pretty plots from data exploration + explanations!
 ### Methods
 Quick summary of what was done for maps + analysis of speakers (? maybe not necessary)
 
+{% include figure.html %}
+
 ## Results
 (--- move methods here ?)
 
