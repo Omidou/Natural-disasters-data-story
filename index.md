@@ -12,6 +12,8 @@
 
 ## Introduction
 
+<iframe src="hurr_map.html" seamless></iframe>
+
 ### Abstract 
 More complete abstract than the one in the readme
 
