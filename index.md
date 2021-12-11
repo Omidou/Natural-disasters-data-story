@@ -17,7 +17,7 @@ Test TITLE
 <!---
 TO ADD THE INTERACTIVE PLOT
 -->
-<div style="width: 100%; height: 80vh; text-align: center"><iframe src="left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US</div>
+<div style="width: 100%; height: 80vh; text-align: center"><iframe src="left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US<br></div>
 
 <!---
 margin-left: auto; margin-right: auto;
@@ -25,6 +25,7 @@ margin-left: auto; margin-right: auto;
 
 ### Abstract 
 More complete abstract than the one in the readme
+
 
 ### What data?
 QuoteBank blabla, natural disasters quotes ... + natural disasters dataset blabla <br/> 
