@@ -12,7 +12,7 @@
 
 ## Introduction
 
-<p align><iframe src="hurr_map.html" seamless style="width: 60vw; height: 100vh; border: 2; padding: 3px; text-align: center;"></iframe></p>
+<div><iframe src="hurr_map.html" seamless style="width: 60vw; height: 100vh; border: 2; padding: 3px; text-align: center;"></iframe></div>
 
 <!---
 margin-left: auto; margin-right: auto;
