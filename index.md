@@ -12,7 +12,7 @@
 
 ## Introduction
 
-<p align="center"><iframe src="hurr_map.html" seamless width='100%'></iframe></p>
+<iframe src="hurr_map.html" seamless style="width: 100%; border: 0; padding: 10px; text-align: center;"></iframe>
 
 ### Abstract 
 More complete abstract than the one in the readme
