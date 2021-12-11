@@ -12,12 +12,12 @@
 
 ## Introduction
 
-Test
+Test 5
 
 <!---
 TO ADD THE INTERACTIVE PLOT
 -->
-<div style="width: 100%; height: 80vh;"><iframe src="left_map.html" style="text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe></div>
+<div style="width: 100%; height: 80vh"><iframe src="left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe></div>
 
 <!---
 margin-left: auto; margin-right: auto;
