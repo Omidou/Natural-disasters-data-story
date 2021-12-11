@@ -12,12 +12,11 @@
 
 ## Introduction
 
-<iframe src="test_map.html" seamless style="width: 100%; height: 100%; border: 2; padding: 3px; text-align: center;"></iframe>
-
 <!---
 TO ADD THE INTERACTIVE PLOT
-<div><iframe src="test_map.html" seamless style="width: 100%; height: 100%; border: 2; padding: 3px; text-align: center;"></iframe></div>
 -->
+<div><iframe src="test_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; overflow: hidden;"></iframe></div>
+
 <!---
 margin-left: auto; margin-right: auto;
 -->
