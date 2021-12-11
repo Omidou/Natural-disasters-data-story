@@ -15,7 +15,7 @@
 <!---
 TO ADD THE INTERACTIVE PLOT
 -->
-<div style="margin-left:10%"><iframe src="left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe></div>
+<div><iframe src="left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe></div>
 
 <!---
 margin-left: auto; margin-right: auto;
