@@ -12,11 +12,7 @@
 
 ## Introduction
 
-<!---
-<iframe src="hurr_map.html" seamless style="width: 100%; height: 100%; border: 0; padding: 10px; text-align: center;"></iframe>
--->
-{% include frame.html url="hurr_map.html" width=2000 height=516 %}
-
+<iframe src="hurr_map.html" seamless style="width: 100vw;; height: 30vh; border: 0; padding: 10px; text-align: center;"></iframe>
 
 ### Abstract 
 More complete abstract than the one in the readme
