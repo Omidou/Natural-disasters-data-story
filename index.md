@@ -29,7 +29,7 @@ TODO AT THE END
 
 World map :
 
-<div style="width: 100vw; height: 90vh; text-align: center"><iframe src="slider_world.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of natural disasters per type<br></div>
+<div style="width: 100vw; height: 100vh; text-align: center"><iframe src="slider_world.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of natural disasters per type<br></div>
 
 
 ### <a name="what_data?"></a> What data?
