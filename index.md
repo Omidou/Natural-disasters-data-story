@@ -35,14 +35,11 @@ The QuoteBank dataset consists of quotations found in online articles. With the 
 
 #### Exploration
 
-![hurricane_quote_freq](https://user-images.githubusercontent.com/43467181/145820764-456fc7eb-7eda-4258-a274-3223a3bef2ab.png)
-
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/43467181/145820764-456fc7eb-7eda-4258-a274-3223a3bef2ab.png" />
-  <img src="https://user-images.githubusercontent.com/43467181/145820798-1be4b1b7-bf4b-4dc1-86ae-3916d8a8e461.png" /> 
+  <img src="https://user-images.githubusercontent.com/43467181/145820764-456fc7eb-7eda-4258-a274-3223a3bef2ab.png" width="450" />
+  <img src="https://user-images.githubusercontent.com/43467181/145820798-1be4b1b7-bf4b-4dc1-86ae-3916d8a8e461.png" width="450" /> 
 </p>
 
-![earthquake_quote_freq](https://user-images.githubusercontent.com/43467181/145820798-1be4b1b7-bf4b-4dc1-86ae-3916d8a8e461.png)
 
 
 ### Methods
