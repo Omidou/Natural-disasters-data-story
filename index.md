@@ -35,9 +35,9 @@ The QuoteBank dataset consists of quotations found in online articles. With the 
 
 #### Exploration
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/43467181/145820764-456fc7eb-7eda-4258-a274-3223a3bef2ab.png" width="450" />
-  <img src="https://user-images.githubusercontent.com/43467181/145820798-1be4b1b7-bf4b-4dc1-86ae-3916d8a8e461.png" width="450" /> 
+<p aligh="middle">
+  <img src="https://user-images.githubusercontent.com/43467181/145820764-456fc7eb-7eda-4258-a274-3223a3bef2ab.png" width="500" />
+  <img src="https://user-images.githubusercontent.com/43467181/145820798-1be4b1b7-bf4b-4dc1-86ae-3916d8a8e461.png" width="500" /> 
 </p>
 
 
