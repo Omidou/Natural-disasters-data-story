@@ -24,12 +24,14 @@ margin-left: auto; margin-right: auto;
 -->
 
 ### Abstract 
-More complete abstract than the one in the readme
+More complete abstract than the one in the readme + research questions updated
 
 
 ### What data?
 QuoteBank blabla, natural disasters quotes ... + natural disasters dataset blabla <br/> 
-Lots of pretty plots from data exploration + explanations!
+Lots of pretty plots from data exploration + explanations!<br/> 
+
+The QuoteBank dataset consists of quotations found in online articles. With the help of a dataset containing ground truth informations on different kind of natural disasters [worldwide](https://www.emdat.be/), and most specifically [in the US](https://www.kaggle.com/headsortails/us-natural-disaster-declarations), it is possible to extract quotes relative to these natural crisis. <br/>
 
 ### Methods
 Quick summary of what was done for maps + analysis of speakers (? maybe not necessary)
