@@ -27,6 +27,10 @@ margin-left: auto; margin-right: auto;
 More complete abstract than the one in the readme + research questions updated <br/>
 TODO AT THE END
 
+World map :
+
+<div style="width: 100%; height: 80vh; text-align: center"><iframe src="slider_world.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of natural disasters per type<br></div>
+
 
 ### <a name="what_data?"></a> What data?
 
