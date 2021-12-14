@@ -1,6 +1,6 @@
-[Abstract](#abstract)
-[What data?](#what_data?)
-[Methods](#methods)
+[Abstract](#abstract) <br>
+[What data?](#what_data?) <br>
+[Methods](#methods) <br>
 
 2. [Results](#results)
   - [Map of natural disasters](#map_of_natural_disasters)
