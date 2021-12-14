@@ -35,9 +35,8 @@ World map :
 Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran, Indonesia and the Philippines has been subject to many earthquakes in recent times. <br>
 ZOOMED IN PICTURE <br>
 
-<p style="text-align: center">
-  <img src="figure/earthquake_scheme.png" width="100vw" />
-</p>
+
+<div><img src="https://github.com/Omidou/Natural-disasters-through-quotes/blob/gh-pages/figures/earthquake_scheme.png" width="100vw" /></div>
 
 
 ### <a name="what_data?"></a> What data?
