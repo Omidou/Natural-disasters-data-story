@@ -9,9 +9,9 @@
 3. [Conclusion](#conclusion)
 
 
-## Introduction
+### Abstract 
 
-
+Natural disasters, such as earthquakes, hurricanes, floods and wildfires, occur every year causing a lot of damage. Over the years, there has been a growing concern on the extent of climate change and on the potential impact it has on our current environment. The theories on the origin and on the nature of climate change have been flowing, there is still a lot of uncertainty on what to expect with it, but a shifting in the frequency and in the areas impacted by natural disasters has already been observed.
 
 <!---
 TO ADD THE INTERACTIVE PLOT
