@@ -36,7 +36,7 @@ Looking at the earthquake distribution across the globe, we see that there seems
 ZOOMED IN PICTURE <br>
 
 <p>
-  <img src="https://github.com/Omidou/Natural-disasters-through-quotes/blob/gh-pages/figures/earthquake_scheme.png" width="100vw" />
+  <img src="https://github.com/Omidou/Natural-disasters-through-quotes/blob/gh-pages/figures/earthquake_scheme.png" width="500" />
 </p>
 
 
