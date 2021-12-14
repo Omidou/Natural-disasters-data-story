@@ -17,7 +17,7 @@ Test TITLE
 <!---
 TO ADD THE INTERACTIVE PLOT
 -->
-<div style="width: 100%; height: 80vh; text-align: center"><iframe src="left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US<br></div>
+<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US<br></div>
 
 <!---
 margin-left: auto; margin-right: auto;
@@ -29,7 +29,15 @@ TODO AT THE END
 
 World map :
 
-<div style="width: 100vw; height: 100vh; text-align: center"><iframe src="slider_disasters.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of natural disasters per type<br></div>
+<div style="width: 100vw; height: 100vh; text-align: center"><iframe src="figures/slider_disasters.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of natural disasters per type<br></div>
+
+
+Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran, Indonesia and the Philippines has been subject to many earthquakes in recent times. <br>
+ZOOMED IN PICTURE <br>
+
+<p style="text-align: center">
+  <img src="figure/earthquake_scheme.png" width="100vw" />
+</p>
 
 
 ### <a name="what_data?"></a> What data?
