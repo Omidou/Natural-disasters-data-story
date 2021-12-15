@@ -56,7 +56,11 @@ TO ADD THE INTERACTIVE PLOT
 
 <p>NEW MAP TEST<br><br></p>
 
-<iframe width="1024" height="768" src="figures/left_map.html" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
+<iframe width="100vw" height="80vh" src="figures/lda_res_pol.html" style="display:block;-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
+
+<!---
+<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: contain; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; margin-left: 0px" frameborder='0' ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div>
+-->
 
 <!---
 margin-left: auto; margin-right: auto;
