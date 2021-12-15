@@ -99,7 +99,7 @@ Map + explanation
 
 ### <a name="analysis_of_speakers"></a> Analysis of speakers
 TODO
-<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: cover; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
+<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; background-size: cover; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
 
 ## Conclusion
 blabla
