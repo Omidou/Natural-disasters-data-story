@@ -76,7 +76,7 @@ TO ADD THE INTERACTIVE PLOT
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US</div><br>
 
 
-<p>NEW MAP TEST 3<br><br></p>
+<p>NEW MAP TEST 4<br><br></p>
 
 <style>
 .iframe-container {
@@ -93,6 +93,8 @@ TO ADD THE INTERACTIVE PLOT
    position: absolute;
    top: 0;
    width: 100%;
+   -webkit-transform: scale(0.7);
+   -moz-transform: scale(0.7);
 }
 </style>
   
