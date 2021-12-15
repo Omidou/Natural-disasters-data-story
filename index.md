@@ -60,7 +60,7 @@ margin-left: auto; margin-right: auto;
 
 With a quick look at the frequency of natural disasters key words in the quotations, one can observe peaks that most likely indicate the crisis. <br/>
 
-<p style="text-align: justify;">
+<p style="text-align: center;">
   <img src="https://user-images.githubusercontent.com/43467181/145828341-c93ade7f-1cfd-401d-8849-c8c51b9c1da2.png" width="450" />
   <img src="https://user-images.githubusercontent.com/43467181/145828332-d9097924-8e90-440b-a532-539ca9ce9f7c.png"  width="450" /> 
 </p>
@@ -68,9 +68,9 @@ With a quick look at the frequency of natural disasters key words in the quotati
 These can be easily verified with the ground truth dataset. <br/>
 Note that with some inspection, one can notice that some quotes contain natural disaster key words, but in other contexts like comparisons or hyperboles (E.g. Fire, storm, earthquake, ...). Here is another example for Wildfires cases. <br/>
 
-<p align="center">
+<div style="text-align: center;">
   <img src="https://user-images.githubusercontent.com/43467181/145827748-b9c84c5a-4a11-4598-b219-a6ccaa331aee.png" />
-</p>
+</div>
 
 Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
 
