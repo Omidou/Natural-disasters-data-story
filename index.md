@@ -19,7 +19,23 @@ Every year, natural disasters impact the lives of thousands of people across the
 ### <a name="what_data?"></a> What data?
 
 The QuoteBank dataset consists of millions of quotations found in online articles. Our analyses will be based on using these numerous quotes as an indicator of the overall media coverage of an event, thanks to their large number and to their diversity. It is possible to extract quotes relevant to the subject of natural disasters by selecting the ones citing specific words from a curated dictionary of diverse catastrophes. Along with the help of a dataset containing ground truth information on different kind of natural disasters [worldwide](https://www.emdat.be/), and most specifically [in the US](https://www.kaggle.com/headsortails/us-natural-disaster-declarations), we can try to see what parallels can be drawn between real data about natural disasters and quotes related to them. <br>
+
 The quotes being in English, most of the quotations are most likely to be driven towards US-related material and events or towards events that have made such an impact that it is worth mentioning in the english or american news. The US natural disaster dataset allows us to have a more precise idea of where specifically in the US the unfortunate events took place, as it encodes county-wise information about the disasters. <br>
+
+
+World map :
+
+<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/slider_disasters.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of natural disasters per type</div><br>
+
+
+Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran, Indonesia and the Philippines has been subject to many earthquakes in recent times. <br>
+
+ZOOMED IN PICTURE <br>
+
+<p>
+  <img src="figures/earthquake_scheme.png" />
+</p>
+
 
 <!---
 TO ADD THE INTERACTIVE PLOT
@@ -29,22 +45,6 @@ TO ADD THE INTERACTIVE PLOT
 <!---
 margin-left: auto; margin-right: auto;
 -->
-
-
-More complete abstract than the one in the readme + research questions updated <br/>
-TODO AT THE END
-
-World map :
-
-<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/slider_disasters.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of natural disasters per type</div><br>
-
-
-Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran, Indonesia and the Philippines has been subject to many earthquakes in recent times. <br>
-ZOOMED IN PICTURE <br>
-
-<p>
-  <img src="figures/earthquake_scheme.png" />
-</p>
 
 
 
