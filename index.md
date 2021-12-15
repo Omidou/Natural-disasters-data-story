@@ -39,19 +39,13 @@ The quotes being in English, most of the quotations are most likely to be driven
 Only kept few quotes => the ones containing the following words : 'hurricane','blabla','blabla', ... Which makes up for a total of around 1500000 quotes. Plot with the distribution of the quotes overtime.
 </p>
 
-<figure>
-  <img src="figures/overall_quote_distribution.png" />
-  <figcaption>Specific distribution of the quotes over time for each natural disaster type</figcaption>
-</figure>
+<div style="text-align: center"><img src="figures/overall_quote_distribution.png" />Specific distribution of the filtered quotes over time</div>
 
 <p>
 BLABLABLA
 </p>
 
-<figure>
-  <img src="figures/nd_quote_distribution.png" />
-  <figcaption>Specific distribution of the quotes over time for each natural disaster type</figcaption>
-</figure>
+<div style="text-align: center"><img src="figures/nd_quote_distribution.png" />Specific distribution of the quotes over time for each natural disaster type</div>
 
 World map :
 
