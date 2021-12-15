@@ -24,7 +24,7 @@ Natural disasters, such as earthquakes, hurricanes, floods and wildfires, occur 
 Every year, natural disasters impact the lives of thousands of people across the world, and as the main cause of many disruptions in the world, it is fair to expect the impact of these unfortunate events to spread to the media and the press. This story aims to depict how quotations taken from the news are able to reflect the natural events that have taken place and impacted the real world, and in a reverse manner, how the impact of natural disasters can be observed in the media. <br>
 </p>
 
-### <a name="what_data?"></a> What data?
+## <a name="what_data?"></a> What data?
 
 <p>
 The QuoteBank dataset consists of millions of quotations found in online articles. Our analyses will be based on using these numerous quotes as an indicator of the overall media coverage of an event, thanks to their large number and to their diversity. It is possible to extract quotes relevant to the subject of natural disasters by selecting the ones citing specific words from a curated dictionary of diverse catastrophes. Along with the help of two datasets containing ground truth information on different kind of natural disasters <a href="https://www.emdat.be/">worldwide</a>, and most specifically <a href="https://www.kaggle.com/headsortails/us-natural-disaster-declarations">in the US</a>, we can try to see what parallels can be drawn between real data about natural disasters and quotes related to them. <br>
@@ -32,6 +32,26 @@ The QuoteBank dataset consists of millions of quotations found in online article
 <p>
 The quotes being in English, most of the quotations are most likely to be driven towards US-related material and events or towards events that have made such an impact that it is worth mentioning in the english or american news. The US natural disaster dataset allows us to have a more precise idea of where specifically in the US the unfortunate events took place, as it encodes county-wise information about the disasters. <br>
 </p>
+
+### Filtered quotes
+
+<p>
+Only kept few quotes => the ones containing the following words : 'hurricane','blabla','blabla', ... Which makes up for a total of around 1500000 quotes. Plot with the distribution of the quotes overtime.
+</p>
+
+<figure>
+  <img src="figures/overall_quote_distribution.png" />
+  <figcaption>Specific distribution of the quotes over time for each natural disaster type</figcaption>
+</figure>
+
+<p>
+BLABLABLA
+</p>
+
+<figure>
+  <img src="figures/nd_quote_distribution.png" />
+  <figcaption>Specific distribution of the quotes over time for each natural disaster type</figcaption>
+</figure>
 
 World map :
 
