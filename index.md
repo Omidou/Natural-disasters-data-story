@@ -84,6 +84,13 @@ Furthermore, the location of the disaster can also be found in those quotes eith
 Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
 Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
 
+TODO weave this paragraph
+
+<img src="figures/occupation.png" />
+
+We see that the most frequent speakers are researchers, followed by politicians.
+In section TODO we will perform a logistic regression to predict wether a certain quote comes from either group.
+Then, in section TODO we will display the result of a latent dirichlet analysis (LDA), in the hopes of detecting if the two groups speak about different topics.
 
 MAYBE ADD SOMETHING FOR SPEAKERS?
 
