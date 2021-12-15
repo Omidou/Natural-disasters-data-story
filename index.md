@@ -1,4 +1,3 @@
-<p style="text-align: center">
 [Abstract](#abstract) <br>
 [What data?](#what_data?) <br>
 [Natural disasters in the world](#natural_disasters_in_the_world?) <br>
@@ -8,7 +7,6 @@
   - [Map of natural disasters](#map_of_natural_disasters)
   - [Analysis of speakers](#analysis_of_speakers)
 3. [Conclusion](#conclusion)
-</p>
   
 <style>
 p{
@@ -38,13 +36,18 @@ The quotes being in English, most of the quotations are most likely to be driven
 ### Filtered quotes
 
 <p>
+To specifically target quotes that are relevant to the subject of natural disasters, only the quotes containing words part of a list of words relevant to the subject are kept, such as 'hurricane', 'earthquake', 'fire', and so on. Below is the time distribution of the filtered quotes :
 Only kept few quotes => the ones containing the following words : 'hurricane','blabla','blabla', ... Which makes up for a total of around 1500000 quotes. Plot with the distribution of the quotes overtime.
 </p>
 
 <p style="text-align: center"><img src="figures/overall_quote_distribution.png" /><br>Specific distribution of the filtered quotes over time</p>
 
 <p>
-BLABLABLA
+The filtered quotes make up for a total of around 1500000 quotes, leaving us with a high number of quotes to work with. The frequency of the quotes is overall uniform despite a few drops, meaning that we can draw consistent comparisons if we compare the frequency of occurence of certain types of quotes in different period of times.
+</p>
+
+<p>
+Below is the distribution of quotes per type of natural disaster.
 </p>
 
 <p style="text-align: center"><img src="figures/nd_quote_distribution.png" /><br>Specific distribution of the quotes over time for each natural disaster type</p>
