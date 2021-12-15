@@ -53,6 +53,11 @@ TO ADD THE INTERACTIVE PLOT
 -->
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US</div><br>
 
+
+<p>NEW MAP TEST<br><br></p>
+
+<iframe width="1024" height="768" src="figures/left_map.html" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
+
 <!---
 margin-left: auto; margin-right: auto;
 -->
@@ -77,9 +82,9 @@ Note that with some inspection, one can notice that some quotes contain natural 
 
 Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
 
-<p align="center">
+<div style="text-align: center;">
   <img src="https://user-images.githubusercontent.com/43467181/145830940-40e02dd2-6204-4079-ac4a-7693afefef70.png" />
-</p>
+</div>
 
 Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
 Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
