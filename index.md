@@ -87,10 +87,6 @@ Hence there is enough data to start constructing a spatial and temporal map of n
 
 MAYBE ADD SOMETHING FOR SPEAKERS?
 
-## Speaker Analysis
-
-
-<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
 
 ### Methods
 Quick summary of what was done for maps + analysis of speakers (? maybe not necessary)
@@ -103,6 +99,7 @@ Map + explanation
 
 ### <a name="analysis_of_speakers"></a> Analysis of speakers
 TODO
+<div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 60%; height: 60%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
 
 ## Conclusion
 blabla
