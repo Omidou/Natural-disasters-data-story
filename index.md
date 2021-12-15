@@ -1,5 +1,6 @@
 [Abstract](#abstract) <br>
 [What data?](#what_data?) <br>
+[Natural disasters in the world](#natural_disasters_in_the_world?) <br>
 [Methods](#methods) <br>
 
 2. [Results](#results)
@@ -14,6 +15,10 @@
 Natural disasters, such as earthquakes, hurricanes, floods and wildfires, occur every year causing a lot of damage. Over the years, there has been a growing concern on the extent of climate change and on the potential impact it has on our current environment. The theories on the origin and on the nature of climate change have been flowing, there is still a lot of uncertainty on what to expect with it, but a shifting in the frequency and in the areas impacted by natural disasters has already been observed. <br>
 
 Every year, natural disasters impact the lives of thousands of people across the world, and as the main cause of many disruptions in the world, it is fair to expect the impact of these unfortunate events to spread to the media and the press. This story aims to depict how quotations taken from the news are able to reflect the natural events that have taken place and impacted the real world, and in a reverse manner, how the impact of natural disasters can be observed in the media. <br>
+
+### <a name="what_data?"></a> What data?
+
+The QuoteBank dataset consists of millions of quotations found in online articles from 2015 to 2020. Our analyses will be based on using these numerous quotes as an indicator of the overall media coverage of an event, thanks to their large number and to their diversity. It is possible to extract quotes relevant to the subject of natural disasters by selecting the ones citing specific words from a curated dictionary of diverse catastrophes. Along with the help of a dataset containing ground truth information on different kind of natural disasters [worldwide](https://www.emdat.be/), and most specifically [in the US](https://www.kaggle.com/headsortails/us-natural-disaster-declarations), we can try to see what parallels can be drawn between real data about natural disasters and their contribution to the quotes. <br/>
 
 <!---
 TO ADD THE INTERACTIVE PLOT
@@ -41,9 +46,6 @@ ZOOMED IN PICTURE <br>
 </p>
 
 
-### <a name="what_data?"></a> What data?
-
-The QuoteBank dataset consists of quotations found in online articles. With the help of a dataset containing ground truth informations on different kind of natural disasters [worldwide](https://www.emdat.be/), and most specifically [in the US](https://www.kaggle.com/headsortails/us-natural-disaster-declarations), it is possible to extract quotes by manually taking the ones citing specific words from a curated dictionary of diverse catastrophes. <br/>
 
 #### Exploration
 
