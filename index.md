@@ -102,6 +102,32 @@ TO ADD THE INTERACTIVE PLOT
   <iframe src="figures/lda_res_pol.html" allowfullscreen></iframe>
 </div>
   
+  
+<p>
+  NEW TEST 5
+</p>
+
+<style>
+.wrap {
+  width: 640px;
+  height: 480px;
+  overflow: hidden;
+}
+
+.wrap iframe {
+  width: 76.92% !important;
+  height: 76.92% !important;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+</style>
+
+<div class='wrap'>
+    <iframe src="figures/lda_res_pol.html"></iframe>
+</div>
+  
 <!---
 <div style="width: 100vw; height: 100vh; text-align: center"><iframe style="width: 100%; height: 100%; -webkit-transform: scale(0.7); -moz-transform: scale(0.7);" src="figures/lda_res_pol.html" ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div>
 -->
