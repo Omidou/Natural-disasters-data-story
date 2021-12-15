@@ -1,3 +1,4 @@
+<p style="text-align: center">
 [Abstract](#abstract) <br>
 [What data?](#what_data?) <br>
 [Natural disasters in the world](#natural_disasters_in_the_world?) <br>
@@ -7,7 +8,8 @@
   - [Map of natural disasters](#map_of_natural_disasters)
   - [Analysis of speakers](#analysis_of_speakers)
 3. [Conclusion](#conclusion)
-
+</p>
+  
 <style>
 p{
     text-align: justify;
