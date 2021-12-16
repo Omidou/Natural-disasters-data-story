@@ -74,16 +74,15 @@ Looking at the earthquake distribution across the globe, we see that there seems
 <div style="text-align: center"><img src="figures/earthquake_highlighted.png"/>Frequency of quotes related to earthquakes with highlighted highest peaks</div>
 
 <p>
-This standing is solely based on their impact on the quotations and not on whether they actually had a dramatic impact or not. As depicted on the world map above, Iran is a country that is being recurrently struck by earthquakes. If we plot the distribution of quotes that are at both relevant to earthquakes and Iran (available from 2015 to 2020 only, as opposed to the natural disaster dataset), we see that there's a notable peak in 2017, corresponding to a major earthquake that occured close to Iraq in <a href="https://reliefweb.int/disaster/eq-2017-000165-irn">Iran</a>, injuring around 10'000 people. <figure style="display: inline-block; float: right; margin: 10px 0px 15px 10px;"><img src="figures/iran.png"><figcaption>Frequency of quotes related to Iran and earthquakes</figcaption></figure>
+This standing is solely based on their impact on the quotations and not on whether they actually had a dramatic impact or not. As depicted on the world map above, Iran is a country that is being recurrently struck by earthquakes. If we plot the distribution of quotes that are at both relevant to earthquakes and Iran (available from 2015 to 2020 only, as opposed to the natural disaster dataset), we see that there's a notable peak in 2017, corresponding to a major earthquake that occured close to Iraq in <a href="https://reliefweb.int/disaster/eq-2017-000165-irn">Iran</a>, injuring around 10'000 people. <figure style="text-align: center; display: inline-block; float: right; margin: 10px 0px 15px 10px; max-width: 60%"><img src="figures/iran.png"><figcaption>Frequency of quotes related to Iran and earthquakes</figcaption></figure>
 It does not make sense to compare those numbers with the ones from Nepal (significantly deadlier) and the ones from Mexico or California as it is part or related to the US, therefore more covered in the news. However, if we compare those to the earthquake that occured in <a href="https://en.wikipedia.org/wiki/August_2016_Central_Italy_earthquake">Italy</a> in 2016, the impact of the latter is significantly lower, with 400 people injured in the process.
 </p>
 
 <p>
-ZOOMED IN PICTURE <br>
+Below blabla bla comparison of the quotes frequency at the moment of the event and for a duration of 11 days (until it stops being reported). 
 </p>
 
-
-<img src="figures/italy_iran.png" />
+<div style="text-align: center"><img src="figures/italy_iran.png" />Comparison between the occurence of related quotes when the earthquakes occured, each bin represents a day</div>
 
 <img src="figures/earthquake_scheme.png" width="40vw" height="30vh"/>
 
