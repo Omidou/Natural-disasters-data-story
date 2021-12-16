@@ -104,7 +104,7 @@ TO ADD THE INTERACTIVE PLOT
   
   
 <p>
-  NEW TEST 5
+  NEW TEST 6
 </p>
 
 <style>
@@ -115,10 +115,10 @@ TO ADD THE INTERACTIVE PLOT
 }
 
 .wrap iframe {
-  width: 76.92% !important;
-  height: 76.92% !important;
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  width: 142.85% !important;
+  height: 142.85% !important;
+  -webkit-transform: scale(0.7);
+  transform: scale(0.7);
   -webkit-transform-origin: 0 0;
   transform-origin: 0 0;
 }
