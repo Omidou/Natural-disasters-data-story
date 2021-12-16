@@ -75,9 +75,9 @@ TO ADD THE INTERACTIVE PLOT
 -->
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US</div><br>
 
-<p>Map Test 7</p>
+<p>Map Test 8</p>
 
-<iframe width="800" height="600" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
+<iframe width="1000px" height="800px" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
 
 
 <p>NEW MAP TEST 4<br><br></p>
