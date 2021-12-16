@@ -4,6 +4,7 @@
 [Natural disasters in the world](#natural_disasters_in_the_world) <br>
 [Natural disasters in the US](#natural_disasters_in_the_us) <br>
 [Analysis of speakers](#analysis_of_speakers) <br>
+- [Topic detection](#topic_detection) <br>
 [Conclusion](#conclusion)
   
 <style>
@@ -187,8 +188,6 @@ The parties that appear most often are those that operate in english-speaking co
 </p>
 
 
-### Methods
-TODO Quick summary of what was done for maps + analysis of speakers (? maybe not necessary)
 
 [Later in the article](#### Researcher vs Politicians: How does the way they speak differ ?), we will perform a bag-of-words logistic regression to differentiate researcher quotes with politician quotes.
 Having found a good fit, in [the section after it](#### Topic Detection) we will display the result of a latent Dirichlet analysis (LDA), in the hopes of detecting what are the two main topics each group is talking about.
@@ -196,15 +195,11 @@ Having found a good fit, in [the section after it](#### Topic Detection) we will
 ## Results
 (--- move methods here ?)
 
-### <a name="map_of_natural_disasters"></a> Map of natural disasters
-Map + explanation 
 
-### <a name="analysis_of_speakers"></a> Analysis of speakers
-
-#### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
+### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
 TODO
 
-#### <name="topic_detection"></a> Topic Detection.
+### <a name="topic_detection"></a> Topic Detection
 <a href="figures/lda_res_pol.html">*See the LDA on a standalone page*</a>
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: contain; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; margin-left: 0px" frameborder='0' ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
 
@@ -212,7 +207,7 @@ TODO
 <br><br>
 
 
-## Conclusion
+## <a name="conclusion">Conclusion</a>
 blabla
 
 
