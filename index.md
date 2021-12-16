@@ -82,7 +82,7 @@ It does not make sense to compare those numbers with the ones from Nepal (signif
 If we now compare the impact the two events had in the news, using a plot of the quotes frequency at the moment of the event and for a duration of 11 days (until it stops being reported), we see that surprisingly the amount of quotes related to the italian disaster are significantly higher, as hinted by the peak previously detected in the earthquake distribution.
 </p>
 
-<div style="text-align: center"><img src="figures/italy_iran.png" />Comparison between the occurence of related quotes when the earthquakes occured, each bin represents a day</div>
+<div style="text-align: center"><img src="figures/italy_iran.png" />Comparison between the occurence of quotes related to each event, each bin represents a day</div>
 
 <img src="figures/earthquake_scheme.png" width="40vw" height="30vh"/>
 
