@@ -39,7 +39,7 @@ The quotes being in English, most of the quotations are most likely to be driven
 To specifically target quotes that are relevant to the subject of natural disasters, only the quotes containing words part of a list of words relevant to the subject are kept, such as 'hurricane', 'earthquake', 'fire', and so on. The time distribution of the filtered quotes is shown below :
 </p>
 
-<p style="text-align: center"><img src="figures/overall_quote_distribution.png" /><br>Specific distribution of the filtered quotes over time</p>
+<p style="text-align: center"><img src="figures/overall_quote_distribution.png" /><br>Distribution of the filtered quotes over time</p>
 
 <p>
 The filtered quotes make up for a total of around 1500000 quotes, leaving us with a high number of quotes to work with. The frequency of the quotes is overall uniform despite a few drops, meaning that we can draw consistent comparisons if we compare the frequency of occurence of certain types of quotes in different period of times.
