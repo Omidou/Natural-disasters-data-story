@@ -76,9 +76,9 @@ TO ADD THE INTERACTIVE PLOT
 -->
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US</div><br>
 
-<p>Map Test 15</p>
+<p>Map Test 17</p>
 
-<div style="display: block; text-align: center;"><iframe width="1250px" height="860px" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.65);-moz-transform-scale(0.65);"></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div>
+<div style="position: relative; overflow: hidden;"><iframe width="1250px" height="860px" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.65);-moz-transform-scale(0.65); position: absolute; top: -9999px; bottom: -9999px; left: -9999px; right: -9999px; margin: auto;"></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div>
 
 
 <p>NEW MAP TEST 4<br><br></p>
