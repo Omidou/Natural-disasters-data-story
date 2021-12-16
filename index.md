@@ -1,6 +1,7 @@
 [Abstract](#abstract) <br>
 [What data?](#what_data?) <br>
-[Natural disasters in the world](#natural_disasters_in_the_world?) <br>
+- [Filtered quotes](#filtered_quotes) <br>
+[Natural disasters in the world](#natural_disasters_in_the_world) <br>
 [Methods](#methods) <br>
 
 2. [Results](#results)
@@ -15,7 +16,7 @@ p{
 </style>
 
 
-## Abstract 
+## <a name="abstract"></a> Abstract 
 
 <p>
 Natural disasters, such as earthquakes, hurricanes, floods and wildfires, occur every year causing a lot of damage. Over the years, there has been a growing concern on the extent of climate change and on the potential impact it has on our current environment. The theories on the origin and on the nature of climate change have been flowing, there is still a lot of uncertainty on what to expect with it, but a shifting in the frequency and in the areas impacted by natural disasters has already been observed.
@@ -33,7 +34,7 @@ The QuoteBank dataset consists of millions of quotations found in online article
 The quotes being in English, most of the quotations are most likely to be driven towards US-related material and events or towards events that have made such an impact that it is worth mentioning in the english or american news. The US natural disaster dataset allows us to have a more precise idea of where specifically in the US the unfortunate events took place, as it encodes county-wise information about the disasters. <br>
 </p>
 
-### Filtered quotes
+### <a name="filtered_quotes"></a> Filtered quotes
 
 <p>
 To specifically target quotes that are relevant to the subject of natural disasters, only the quotes containing words part of a list of words relevant to the subject are kept, such as 'hurricane', 'earthquake', 'fire', and so on. The time distribution of the filtered quotes is shown below :
@@ -51,7 +52,7 @@ On the other hand, the separate distributions in time of each natural disaster o
 
 <p style="text-align: center"><img src="figures/nd_quote_distribution.png" /><br>Specific distribution of the quotes over time for each natural disaster type of interest</p>
 
-## Natural disasters in the world
+## <a name="natural_disasters_in_the_world"></a> Natural disasters in the world
 
 <p>
 First getting an insight of how natural disasters affect the world in various ways depending on the area can help us with understanding what quotes to target in order to extract interesting facts from them. Feel free to slide between the different distributions of natural disasters in the world to get a better idea of the pattern with which these unfortunate events strike different areas of the world. The darker the country, the more times it has been struck by an event of the type defined by the slider. Note that data on the natural disasters occuring in countries such as the US are more likely to be reported due to the stronger influence of the american media on an international level as compared to other, smaller countries. This explains why the US are displayed as heavily impacted by most of those disasters and justifies why later focus on the US natural disaster dataset makes sense. 
@@ -77,7 +78,7 @@ TO ADD THE INTERACTIVE PLOT
 
 <p>Map Test 9</p>
 
-<iframe width="1500px" height="1100px" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
+<iframe width="1500px" height="1100px" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.65);-moz-transform-scale(0.65);"></iframe>
 
 
 <p>NEW MAP TEST 4<br><br></p>
