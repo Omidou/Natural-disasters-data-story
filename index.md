@@ -90,7 +90,7 @@ If we now compare the impact the two events had in the news, using a plot of the
 <ul>
   <li>Distribution of natural disasters in the US => map with slider</li>
   <li>Wildfires : case study</li>
-  <li>Hurricanes : case study</li>
+  <li>Hurricanes : case study, hurricane seasonality observable in the quotes</li>
   <li>Comparison between spatial information retained in the quotes with factual data</li>
 </ul>
 </p>
