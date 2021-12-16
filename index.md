@@ -41,7 +41,7 @@ To specifically target quotes that are relevant to the subject of natural disast
 <p style="text-align: center"><img src="figures/overall_quote_distribution.png" /><br>Distribution of the filtered quotes over time</p>
 
 <p>
-The filtered quotes make up for a total of around 1500000 quotes, leaving us with a high number of quotes to work with. The frequency of the quotes is overall uniform despite a few drops, meaning that we can draw consistent comparisons if we compare the frequency of occurence of certain types of quotes in different period of times.
+The filtered quotes make up for a total of around 1'500'000 quotes, leaving us with a high number of quotes to work with. The frequency of the quotes is overall uniform despite a few drops, meaning that we can draw consistent comparisons if we compare the frequency of occurence of certain types of quotes in different period of times.
 </p>
 
 <p>
@@ -59,14 +59,30 @@ First getting an insight of how natural disasters affect the world in various wa
 <div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/slider_disasters.html" style="width: 100%; height: 100%; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of reported natural disasters per type</div><br>
 
 <p>
-Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran, Indonesia and the Philippines has been subject to many earthquakes in recent times. <br>
+Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran and Indonesia has been subject to many earthquakes in recent times. This map encodes information about the frequency distribution of earthquakes but does not display which earthquakes were the largest or the deadliest. We can expect an extraordinary earthquake to have an impact that translates into more quotes being aimed towards them. If we detect the highest peaks (on the figure below), retrieve their dates and location and find the corresponding earthquakes, we get that the earthquakes that triggered the biggest reactions are the following :
+- Nepal (April 2015)
+- Mexico (September 2017)
+- California (July 2019)
+- Italy (August 2016)
+<br>
 </p>
+
+<img src="figures/earthquake_highlighted.png"/>
+
+<p>
+This standing is solely based on their impact on the quotations and not on whether they actually had a dramatic impact or not. As depicted on the world map above, Iran is a country that is being recurrently struck by earthquakes. If we plot the distribution of quotes that are at both relevant to earthquakes and Iran (available from 2015 to 2020 only, as opposed to the natural disaster dataset), we see that there's a notable peak in 2017, corresponding to a major <a href="https://reliefweb.int/disaster/eq-2017-000165-irn">earthquake</a> that occured at the border of Iraq, injuring around 10'000 people. It does not make sense to compare those numbers with the ones from Nepal (significantly deadlier) and the ones from Mexico or California as it is part or related to the US, therefore more covered in the news. However, if we compare those to the earthquake that occured in <a href="https://en.wikipedia.org/wiki/August_2016_Central_Italy_earthquake">Italy</a> in 2016, the impact of the latter is significantly lower, with 380 people injured in the process.
+</p>
+
+<img src="figures/iran.png" width="40vw" height="30vh"/>
+
 <p>
 ZOOMED IN PICTURE <br>
 </p>
 
-<img src="figures/earthquake_scheme.png" />
 
+<img src="fiures/italy_iran.png" />
+
+<img src="figures/earthquake_scheme.png" width="40vw" height="30vh"/>
 
 
 <!---
