@@ -1,10 +1,10 @@
 [Abstract](#abstract) <br>
 [What data?](#what_data?) <br>
-- [Filtered quotes](#filtered_quotes) <br>
+[ Filtered quotes](#filtered_quotes) <br>
 [Natural disasters in the world](#natural_disasters_in_the_world) <br>
 [Natural disasters in the US](#natural_disasters_in_the_us) <br>
 [Analysis of speakers](#analysis_of_speakers) <br>
-- [Topic detection](#topic_detection) <br>
+[ Topic detection](#topic_detection) <br>
 [Conclusion](#conclusion)
   
 <style>
@@ -207,7 +207,7 @@ TODO
 <br><br>
 
 
-## <a name="conclusion">Conclusion</a>
+## <a name="conclusion"></a> Conclusion
 blabla
 
 
