@@ -164,19 +164,35 @@ Furthermore, the location of the disaster can also be found in those quotes eith
 Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
 Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
 
-TODO weave this paragraph
+<p>
+Now, let us investigate the speakers. What are their professions? For the politicians, what are their political affiliations? In the following graph we have plotted the distribution of the ten most common professions among the speakers in our list. Since we suspected that politicians may speak much more often than other groups we also plotted the distribution of quotes per profession.
+</p>
 
-<img src="figures/occupation.png" />
+<img src="figures/occupation.png"/>
+<img src="figures/num_quotes_by_occupation.png"/>
 
-We see that the most frequent speakers are researchers, followed by politicians.
-In section TODO we will perform a logistic regression to predict wether a certain quote comes from either group.
-Then, in section TODO we will display the result of a latent dirichlet analysis (LDA), in the hopes of detecting if the two groups speak about different topics.
+<p>
+We see that among the top ten groups, politicians speak slightly more often, but this increase is small enough that we can pretend that every unique speaker gives approximately the same number of quotes.
+We see that the most frequent speakers are researchers followed by politicians. The rest of the occupations trail behind, having roughly the same frequency each.
+</p>
 
-MAYBE ADD SOMETHING FOR SPEAKERS?
+<!-- TODO Maybe remove this bit -->
+<p>
+In the following graph we have plotted the distribution of the ten most common political affiliations among our speakers.
+</p>
+
+<img src="figures/parties.png"/>
+
+<p>
+The parties that appear most often are those that operate in english-speaking countries. This is unsurprising given that we work with english quotes.
+</p>
 
 
 ### Methods
-Quick summary of what was done for maps + analysis of speakers (? maybe not necessary)
+TODO Quick summary of what was done for maps + analysis of speakers (? maybe not necessary)
+
+[Later in the article](#### Researcher vs Politicians: How does the way they speak differ ?), we will perform a bag-of-words logistic regression to differentiate researcher quotes with politician quotes.
+Having found a good fit, in [the section after it](#### Topic Detection) we will display the result of a latent Dirichlet analysis (LDA), in the hopes of detecting what are the two main topics each group is talking about.
 
 ## Results
 (--- move methods here ?)
@@ -185,7 +201,12 @@ Quick summary of what was done for maps + analysis of speakers (? maybe not nece
 Map + explanation 
 
 ### <a name="analysis_of_speakers"></a> Analysis of speakers
+
+#### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
 TODO
+
+#### <name="topic_detection"></a> Topic Detection.
+<a href="figures/lda_res_pol.html">*See the LDA on a standalone page*</a>
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: contain; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; margin-left: 0px" frameborder='0' ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
 
 
