@@ -64,9 +64,9 @@ First getting an insight of how natural disasters affect the world in various wa
 Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran and Indonesia has been subject to many earthquakes in recent times. This map encodes information about the frequency distribution of earthquakes but does not display which earthquakes were the largest or the deadliest. We can expect an extraordinary earthquake to have an impact that translates into more quotes being aimed towards them. If we detect the highest peaks (on the figure below), retrieve their dates and location and find the corresponding earthquakes, we get that the earthquakes that triggered the biggest reactions are the following :
 <ul>
   <li>Nepal (April 2015)</li>
+  <li>Italy (August 2016)</li>
   <li>Mexico (September 2017)</li>
   <li>California (July 2019)</li>
-  <li>Italy (August 2016)</li>
 </ul>
 <br>
 </p>
