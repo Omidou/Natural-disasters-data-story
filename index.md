@@ -2,12 +2,9 @@
 [What data?](#what_data?) <br>
 - [Filtered quotes](#filtered_quotes) <br>
 [Natural disasters in the world](#natural_disasters_in_the_world) <br>
-[Methods](#methods) <br>
-
-2. [Results](#results)
-  - [Map of natural disasters](#map_of_natural_disasters)
-  - [Analysis of speakers](#analysis_of_speakers)
-3. [Conclusion](#conclusion)
+[Natural disasters in the US](#natural_disasters_in_the_us) <br>
+[Analysis of speakers](#analysis_of_speakers) <br>
+[Conclusion](#conclusion)
   
 <style>
 p{
@@ -163,6 +160,8 @@ Furthermore, the location of the disaster can also be found in those quotes eith
 
 Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
 Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
+
+## <a name="analysis_of_speakers"></a> Analysis of speakers
 
 <p>
 Now, let us investigate the speakers. What are their professions? For the politicians, what are their political affiliations? In the following graph we have plotted the distribution of the ten most common professions among the speakers in our list. Since we suspected that politicians may speak much more often than other groups we also plotted the distribution of quotes per profession.
