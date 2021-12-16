@@ -80,6 +80,8 @@ TO ADD THE INTERACTIVE PLOT
 <!---
 <p>Map Test 18</p>
 
+<iframe width="1250px" height="860px" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.65);-moz-transform-scale(0.65); position: absolute; top: -9999px; bottom: -9999px; left: -9999px; right: -9999px; margin: auto;"></iframe>
+
 <style>
 .iframe-container {
   overflow: hidden;
@@ -189,7 +191,6 @@ TODO
 
 <br><br>
 
-<iframe width="1250px" height="860px" src="figures/lda_res_pol.html" style="-webkit-transform:scale(0.65);-moz-transform-scale(0.65); position: absolute; top: -9999px; bottom: -9999px; left: -9999px; right: -9999px; margin: auto;"></iframe>
 
 ## Conclusion
 blabla
