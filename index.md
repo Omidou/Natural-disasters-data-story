@@ -84,8 +84,16 @@ If we now compare the impact the two events had in the news, using a plot of the
 
 <div style="text-align: center"><img src="figures/italy_iran.png" />Comparison between the occurence of quotes related to each event, each bin represents a day</div>
 
-<img src="figures/earthquake_scheme.png" width="40vw" height="30vh"/>
+## <a name="natural_disasters_in_the_us"></a> Natural disasters in the US
 
+<p>
+<ul>
+  <li>Distribution of natural disasters in the US => map with slider</li>
+  <li>Wildfires : case study</li>
+  <li>Hurricanes : case study</li>
+  <li>Comparison between spatial information retained in the quotes with factual data</li>
+</ul>
+</p>
 
 <!---
 TO ADD THE INTERACTIVE PLOT
