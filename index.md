@@ -69,10 +69,10 @@ Looking at the earthquake distribution across the globe, we see that there seems
 <br>
 </p>
 
-<div><img src="figures/earthquake_highlighted.png"/>Frequency of quotes related to earthquakes with highlighted highest peaks</div>
+<div style="text-align: center"><img src="figures/earthquake_highlighted.png"/>Frequency of quotes related to earthquakes with highlighted highest peaks</div>
 
 <p>
-This standing is solely based on their impact on the quotations and not on whether they actually had a dramatic impact or not. As depicted on the world map above, Iran is a country that is being recurrently struck by earthquakes. If we plot the distribution of quotes that are at both relevant to earthquakes and Iran (available from 2015 to 2020 only, as opposed to the natural disaster dataset), we see that there's a notable peak in 2017, corresponding to a major earthquake that occured close to Iraq in <a href="https://reliefweb.int/disaster/eq-2017-000165-irn">Iran</a>, injuring around 10'000 people. <div><img src="figures/iran.png" alt="alt text" style="float: right; margin: 10px 0px 15px 10px">Frequency of quotes related to Iran and earthquakes</div>
+This standing is solely based on their impact on the quotations and not on whether they actually had a dramatic impact or not. As depicted on the world map above, Iran is a country that is being recurrently struck by earthquakes. If we plot the distribution of quotes that are at both relevant to earthquakes and Iran (available from 2015 to 2020 only, as opposed to the natural disaster dataset), we see that there's a notable peak in 2017, corresponding to a major earthquake that occured close to Iraq in <a href="https://reliefweb.int/disaster/eq-2017-000165-irn">Iran</a>, injuring around 10'000 people. <div style="text-align: center; float: right; margin: 10px 0px 15px 10px;"><img src="figures/iran.png">Frequency of quotes related to Iran and earthquakes</div>
 It does not make sense to compare those numbers with the ones from Nepal (significantly deadlier) and the ones from Mexico or California as it is part or related to the US, therefore more covered in the news. However, if we compare those to the earthquake that occured in <a href="https://en.wikipedia.org/wiki/August_2016_Central_Italy_earthquake">Italy</a> in 2016, the impact of the latter is significantly lower, with 400 people injured in the process.
 
   
