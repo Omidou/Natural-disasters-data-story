@@ -4,6 +4,7 @@
 [Natural disasters in the world](#natural_disasters_in_the_world) <br>
 [Earthquakes: case study](#earthquakes_case_study) <br>
 [Natural disasters in the US](#natural_disasters_in_the_us) <br>
+[Hurricanes: case study](#hurricanes_case_study) <br>
 [Analysis of speakers](#analysis_of_speakers) <br>
 [Topic detection](#topic_detection) <br>
 [Conclusion](#conclusion)
@@ -51,16 +52,6 @@ On the other hand, the separate distributions in time of each natural disaster o
 
 <p style="text-align: center"><img src="figures/nd_quote_distribution.png" /><br>Specific distribution of the quotes over time for each natural disaster type of interest</p>
 
-Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
-
-<div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/43467181/145830940-40e02dd2-6204-4079-ac4a-7693afefef70.png" />
-</div>
-
-Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
-Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
-
-
 ## <a name="natural_disasters_in_the_world"></a> Natural disasters in the world
 
 <p>
@@ -103,18 +94,31 @@ Moving the focus onto the US, we can exploit the dataset specific to the United 
 <div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/slider_us.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Repartition of the natural disasters per type across the US</div><br>
 
 <p>
-Blabla
+From the different scales used here for each disaster type, we deduce that the US are heavily impacted by floods, fires and hurricanes. The other classes still give interesting input on the meteorological dynamics of the country
 </p>
 
+### <a name="hurricanes_case_study"></a> Hurricanes: case study
 
 <ul>
-  <li>Distribution of natural disasters in the US => map with slider</li>
-  <li>Wildfires : case study</li>
-  <li>Hurricanes : case study, hurricane seasonality observable in the quotes</li>
-  <li>Comparison between spatial information retained in the quotes with factual data</li>
+  <li>Talk about quotes => distribution across all states</li>
+  <li>Compare two maps</li>
+  <li>Hurricane seasonality observable in the quotes => show cyclic peaks</li>
 </ul>
 </p>
 
+<div style="text-align: center"><img src="figures/florida.png"/>Frequency of quotes containing 'Florida' or 'Tallahassee'</div>
+
+<div style="text-align: center"><img src="figures/state_hurr_dist.png"/>Count of quotes containing each state name</div>
+
+
+Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
+
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/43467181/145830940-40e02dd2-6204-4079-ac4a-7693afefef70.png" />
+</div>
+
+Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
+Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
 
 <!---
 <p>Map Test 18</p>
