@@ -2,12 +2,12 @@
 <a style="color: #47975d" href="#what_data?">What data?</a> <br>
 <a style="color: #47975d" href="#filtered_quotes">Filtered quotes</a> <br>
 <a style="color: #47975d" href="#natural_disasters_in_the_world">Natural disasters in the world</a> <br>
-<a style="color: #47975d" href="#earthquakes_case_study">&emsp;Earthquakes: case study</a> <br>
+<a style="color: #47975d" href="#earthquakes_case_study">&emsp;&emsp;Earthquakes: case study</a> <br>
 <a style="color: #47975d" href="#natural_disasters_in_the_us">Natural disasters in the US</a> <br>
-<a style="color: #47975d" href="#hurricanes_case_study">&emsp;Hurricanes: case study</a> <br>
+<a style="color: #47975d" href="#hurricanes_case_study">&emsp;&emsp;Hurricanes: case study</a> <br>
 <a style="color: #47975d" href="#analysis_of_speakers">Analysis of speakers</a> <br>
-<a style="color: #47975d" href="#researcher_vs_politicians">&emsp;Researcher vs Politicians: How does the way they speak differ ?</a> <br>
-<a style="color: #47975d" href="#topic_detection">&emsp;Topic detection</a> <br>
+<a style="color: #47975d" href="#researcher_vs_politicians">&emsp;&emsp;Researcher vs Politicians: How does the way they speak differ ?</a> <br>
+<a style="color: #47975d" href="#topic_detection">&emsp;&emsp;Topic detection</a> <br>
 <a style="color: #47975d" href="#conclusion">Conclusion</a> <br>
 
 <style>
