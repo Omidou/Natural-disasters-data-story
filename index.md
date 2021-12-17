@@ -97,6 +97,16 @@ If we now compare the impact the two events had in the news, using a plot of the
 ## <a name="natural_disasters_in_the_us"></a> Natural disasters in the US
 
 <p>
+Moving the focus onto the US, we can exploit the dataset specific to the United States to have a better understanding of the pattern of natural disasters across the country. Use the interactive map below to slide between the disaster types and see their reported location county-wise. Note that state-wise disasters increase the count for all the counties of their state.
+</p>
+
+<div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/slider_us.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Repartition of the natural disasters per type across the US</div><br>
+
+<p>
+Blabla
+</p>
+
+
 <ul>
   <li>Distribution of natural disasters in the US => map with slider</li>
   <li>Wildfires : case study</li>
@@ -104,11 +114,6 @@ If we now compare the impact the two events had in the news, using a plot of the
   <li>Comparison between spatial information retained in the quotes with factual data</li>
 </ul>
 </p>
-
-<!---
-TO ADD THE INTERACTIVE PLOT
--->
-<div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/left_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Map of the number of hurricanes across the US</div><br>
 
 
 <!---
