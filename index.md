@@ -109,7 +109,11 @@ It is well known that hurricanes have been constantly causing troubles in the Un
 From the above figure, we see that Florida comes out on top by a mile, then comes Texas, and finally Carolina (North and South) as well as New York remain heavily linked to hurricanes according to the quotes. A deeper look at the time-series of the quotes containing 'Florida' and its capital city, 'Tallahassee', leads us to the plot below :
 </p>
 
-<div style="text-align: center"><img src="figures/florida.png"/>Frequency of quotes containing 'Florida' or 'Tallahassee'</div>
+<div style="text-align: center"><img src="figures/florida.png"/><br>Frequency of quotes containing 'Florida' or 'Tallahassee'</div>
+
+<!---
+<figure style="text-align: center; display: inline-block; float: right; margin: 0px 0px 12px 15px; max-width: 55%"><img src="figures/iran.png"><figcaption>Frequency of quotes related to earthquakes in Iran</figcaption></figure>
+-->
 
 <p>
 If we compare the shape and the time distribution of the main peaks, we see that it looks fairly similar to the distribution of all the quotes containing 'hurricane' (see figure in <a href="#filtered_quotes">Filtered quotes</a>). This means that the events occurring in Florida make up for most of the concern driven towards hurricanes in the news. 
