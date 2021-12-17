@@ -106,9 +106,14 @@ It is well known that hurricanes have been constantly causing troubles in the Un
 <div style="text-align: center"><img src="figures/state_hurr_dist.png"/>Count of quotes containing each state name</div>
 
 <p>
-blabla
+From the above figure, we see that Florida comes out on top by a mile, then comes Texas, and finally Carolina (North and South) as well as New York remain heavily linked to hurricanes according to the quotes. A deeper look at the time-series of the quotes containing 'Florida' and its capital city, 'Tallahassee', leads us to the plot below :
 </p>
+
 <div style="text-align: center"><img src="figures/florida.png"/>Frequency of quotes containing 'Florida' or 'Tallahassee'</div>
+
+<p>
+If we compare the shape and the time distribution of the main peaks, we see that it looks fairly similar to the distribution of all the quotes containing 'hurricane' (see figure in <a href="#filtered_quotes">Filtered quotes</a>). This means that the events occurring in Florida make up for most of the concern driven towards hurricanes in the news. 
+</p>
 
 <p>
 <ul>
@@ -206,14 +211,7 @@ Note that with some inspection, one can notice that some quotes contain natural 
 
 -->
 
-Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
 
-<div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/43467181/145830940-40e02dd2-6204-4079-ac4a-7693afefef70.png" />
-</div>
-
-Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
-Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
 
 ## <a name="analysis_of_speakers"></a> Analysis of speakers
 
@@ -298,7 +296,7 @@ Finally, on <a href="figures/lda_res_pol_30.html">this page</a> we can see the r
 ## <a name="conclusion"></a> Final words
 <p>
 The goal was to work with quotes from the QuoteBank database, in this case we were interested in observing what the quotations told us about natural disasters ocurrences in the world. We were able to pinpoint temporally and geographically various types of catastrophes from the quotes and verify the outcomes through ground truth dataset. The next step was to look more in depth at the speakers. We observed the main topics represented in their speeches and also their occupations and political affiliation. We concluded that it was indeed easily possible to differentiate between politician and researcher, as they have distinct vocabularies.<br>
-To conclude, there were many ways to exploit the given dataset, as it was very rich and complete. A lot of other analyses, based on machine learning for instance, were possible even with the subject of natural disasters, but might have required more data.
+To conclude, there were many ways to exploit the given dataset, as it was very rich and complete. A lot of other analyses, based on machine learning for instance, would be possible with the subject of natural disasters, but might have required more data.
 </p>
 
 
