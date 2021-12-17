@@ -99,6 +99,7 @@ From the different scales used here for each disaster type, we deduce that the U
 
 ### <a name="hurricanes_case_study"></a> Hurricanes: case study
 
+<p>
 <ul>
   <li>Talk about quotes => distribution across all states</li>
   <li>Compare two maps</li>
