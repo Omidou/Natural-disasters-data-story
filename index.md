@@ -14,9 +14,7 @@
 </p>
 
 <style>
-p{
-    text-align: justify;
-}
+p { text-align: justify;}
 </style>
 
 
