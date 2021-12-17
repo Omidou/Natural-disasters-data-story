@@ -230,7 +230,6 @@ We have created a model that is capable of identifying whether a certain quote i
         }
 </style>
 
-<div style="text-align: center;">
 | P | Q | P * Q |
 | - | - | - |
 | T | T | T |
@@ -238,7 +237,7 @@ We have created a model that is capable of identifying whether a certain quote i
 | F | T | F |
 | F | F | F |
 {: .tablelines}
-</div>
+
 ### <a name="topic_detection"></a> Topic Detection
 <a href="figures/lda_res_pol.html">*See the LDA on a standalone page*</a>
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: contain; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; margin-left: 0px" frameborder='0' ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
