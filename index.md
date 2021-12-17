@@ -59,7 +59,7 @@ First getting an insight of how natural disasters affect the world in various wa
 
 <div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/slider_disasters.html" style="width: 100%; height: 100%; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of reported natural disasters per type</div><br>
 
-### <a name="earthquakes_case_study"></a> Earthquakes : case study
+### <a name="earthquakes_case_study"></a> Earthquakes: case study
 <p>
 Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran and Indonesia has been subject to many earthquakes in recent times. This map encodes information about the frequency distribution of earthquakes but does not display which earthquakes were the largest or the deadliest. We can expect an extraordinary earthquake to have an impact that translates into more quotes being aimed towards them. If we detect the highest peaks (on the figure below), retrieve their dates and location and find the corresponding earthquakes, we get that the earthquakes that triggered the biggest reactions are the following :
 <ul>
@@ -193,9 +193,10 @@ Hence there is enough data to start constructing a spatial and temporal map of n
 <p>
 Now, let us investigate the speakers. What are their professions? For the politicians, what are their political affiliations? In the following graph we have plotted the distribution of the ten most common professions among the speakers in our list. Since we suspected that politicians may speak much more often than other groups we also plotted the distribution of quotes per profession.
 </p>
-
+<div style="text-align: center;">
 <img src="figures/occupation.png"/>
 <img src="figures/num_quotes_by_occupation.png"/>
+</div>
 
 <p>
 We see that among the top ten groups, politicians speak slightly more often, but this increase is small enough that we can pretend that every unique speaker gives approximately the same number of quotes.
@@ -218,13 +219,26 @@ The parties that appear most often are those that operate in english-speaking co
 [Later in the article](#### Researcher vs Politicians: How does the way they speak differ ?), we will perform a bag-of-words logistic regression to differentiate researcher quotes with politician quotes.
 Having found a good fit, in [the section after it](#### Topic Detection) we will display the result of a latent Dirichlet analysis (LDA), in the hopes of detecting what are the two main topics each group is talking about.
 
-## Results
-(--- move methods here ?)
-
 
 ### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
-TODO
+We decide to turn our attention to the vocabulary used by politicians and researchers. How do they approach tragic events such as natural disasters?
+We have created a model that is capable of identifying whether a certain quote is being spoken by a politician or a researcher with a high degree of certainty (greater than 99.5%). We found that the most indicative words for the two groups were the following.
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
+<div style="text-align: center;">
+| P | Q | P * Q |
+| - | - | - |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+{: .tablelines}
+</div>
 ### <a name="topic_detection"></a> Topic Detection
 <a href="figures/lda_res_pol.html">*See the LDA on a standalone page*</a>
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: contain; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; margin-left: 0px" frameborder='0' ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
@@ -235,5 +249,3 @@ TODO
 
 ## <a name="conclusion"></a> Conclusion
 blabla
-
-
