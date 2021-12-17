@@ -4,6 +4,7 @@
 <a style="color: #47975d" href="#filtered_quotes">Filtered quotes</a> <br>
 <a style="color: #47975d" href="#natural_disasters_in_the_world">Natural disasters in the world</a> <br>
 &emsp;&emsp;<a style="color: #47975d" href="#earthquakes_case_study">Earthquakes: case study</a> <br>
+&emsp;&emsp;<a style="color: #47975d" href="#Do_the_quotes_reflect_reality">Do the quotes reflect reality ?</a> <br>
 <a style="color: #47975d" href="#natural_disasters_in_the_us">Natural disasters in the US</a> <br>
 &emsp;&emsp;<a style="color: #47975d" href="#hurricanes_case_study">Hurricanes: case study</a> <br>
 <a style="color: #47975d" href="#analysis_of_speakers">Analysis of speakers</a> <br>
@@ -63,20 +64,6 @@ First getting an insight of how natural disasters affect the world in various wa
 
 <div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/slider_disasters.html" style="width: 100%; height: 100%; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of reported natural disasters per type</div><br>
 
-### <a name="Do_the_quotes_reflect_reality"></a> Do the quotes reflect reality ?
-<p>
-Are there Natural Disasters that are more spoken about compared to how often they occur ? If so, why is that ? To answer that question, we first want to see how the distribution of each type of natural disaster reported by the quotes compares to the actual distribution of the natural disasters that happened between 2015 and 2020.
-</p>
-<p style="text-align: center"><img src="figures/nd_actual_distribution.png" /><br>Specific distribution over time for each natural disaster type of interest</p>
-
-<p>
-Seeing there is a disparity between the distribution of the quotes and the distribution of the natural disasters reported by the CRE , we compare the ratios of the number of quotes relating to each type of natural disaster to the number of actual occurences of said natural disaster each year from 2015 to 2020. 
-</p> 
-
-<p style="text-align: center"><img src="figures/nd_ratios.png" /><br>Ratio of the number of quotes to the number of occurences</p>
-<p>
-We can see that, between 2015 and 2020, Drought has been the Natural Disaster that is most talked about every year compared to how often it occurs. While it only happened 95 times in that timespan, it was mentionned in almost 37k quotes. On the other hand, Flood and especially Extreme temperature are less represented by the quotes and are not very much talked about. This contrast can be explained by the fact that people perceive Drought as the a more threatning and intense issue and while not occuring frequently, it impacts more people. As for the under representation of Flood for example, one explanation would be that due to the fact that this natural disaster happens quite frequently (973 times in 5 years) , people are much more used to it and desensitized and therefore less likely to talk about it. We could also argue that every type of natural disaster is particular to certain regions of the globe and therefore its represenation in the quotes will depend on the media coverage that said region gets. We will explore this idea in depth in the next section.  
-</p>    
 
 ### <a name="earthquakes_case_study"></a> Earthquakes: case study
 <p>
@@ -102,6 +89,21 @@ If we now compare the impact the two events had in the news, using a plot of the
 </p>
 
 <div style="text-align: center"><img src="figures/italy_iran.png" />Comparison between the occurence of quotes related to each event, each bin represents a day</div>
+
+### <a name="Do_the_quotes_reflect_reality"></a> Do the quotes reflect reality ?
+<p>
+Are there Natural Disasters that are more spoken about compared to how often they occur ? If so, why is that ? To answer that question, we first want to see how the distribution of each type of natural disaster reported by the quotes compares to the actual distribution of the natural disasters that happened between 2015 and 2020.
+</p>
+<p style="text-align: center"><img src="figures/nd_actual_distribution.png" /><br>Specific distribution over time for each natural disaster type of interest</p>
+
+<p>
+Seeing there is a disparity between the distribution of the quotes and the distribution of the natural disasters reported by the CRE , we compare the ratios of the number of quotes relating to each type of natural disaster to the number of actual occurences of said natural disaster each year from 2015 to 2020. 
+</p> 
+
+<p style="text-align: center"><img src="figures/nd_ratios.png" /><br>Ratio of the number of quotes to the number of occurences</p>
+<p>
+We can see that, between 2015 and 2020, Drought has been the Natural Disaster that is most talked about every year compared to how often it occurs. While it only happened 95 times in that timespan, it was mentionned in almost 37k quotes. On the other hand, Flood and especially Extreme temperature are less represented by the quotes and are not very much talked about. This contrast can be explained by the fact that people perceive Drought as the a more threatning and intense issue and while not occuring frequently, it impacts more people. As for the under representation of Flood for example, one explanation would be that due to the fact that this natural disaster happens quite frequently (973 times in 5 years) , people are much more used to it and desensitized and therefore less likely to talk about it. We could also argue that every type of natural disaster is particular to certain regions of the globe and therefore its represenation in the quotes will depend on the media coverage that said region gets,as we have explored in the previous section.  
+</p>    
 
 ## <a name="natural_disasters_in_the_us"></a> Natural disasters in the US
 
