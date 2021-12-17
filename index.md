@@ -63,6 +63,21 @@ First getting an insight of how natural disasters affect the world in various wa
 
 <div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/slider_disasters.html" style="width: 100%; height: 100%; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Distribution of reported natural disasters per type</div><br>
 
+### <a name="Do_the_quotes_reflect_reality"></a> Do the quotes reflect reality ?
+<p>
+Are there Natural Disasters that are more spoken about compared to how often they occur ? If so, why is that ? To answer that question, we first want to see how the distribution of each type of natural disaster reported by the quotes compares to the actual distribution of the natural disasters that happened between 2015 and 2020.
+</p>
+<p> style="text-align: center"><img src="figures/nd_actual_distribution.png" /><br>Specific distribution over time for each natural disaster type of interest</p>
+
+<p>
+Seeing there is a disparity between the distribution of the quotes and the distribution of the natural disasters reported by the CRE , we compare the ratios of the number of quotes relating to each type of natural disaster to the number of actual occurences of said natural disaster each year from 2015 to 2020. 
+</p> 
+
+<p> style="text-align: center"><img src="figures/nd_ratios.png" /><br>Ratio of the number of quotes to the number of occurences</p>
+<p>
+We can see that, between 2015 and 2020, Drought has been the Natural Disaster that is most talked about every year compared to how often it occurs. While it only happened 95 times in that timespan, it was mentionned in almost 37k quotes. On the other hand, Flood and especially Extreme temperature are less represented by the quotes and are not very much talked about. This contrast can be explained by the fact that people perceive Drought as the a more threatning and intense issue and while not occuring frequently, it impacts more people. As for the under representation of Flood for example, one explanation would be that due to the fact that this natural disaster happens quite frequently (973 times in 5 years) , people are much more used to it and desensitized and therefore less likely to talk about it. We could also argue that every type of natural disaster is particular to certain regions of the globe and therefore its represenation in the quotes will depend on the media coverage that said region gets. We will explore this idea in depth in the next section.  
+</p>    
+
 ### <a name="earthquakes_case_study"></a> Earthquakes: case study
 <p>
 Looking at the earthquake distribution across the globe, we see that there seems to be an area that is particularly prone to experiencing earthquakes. If we zoom in, we see that the whole area including China, Iran and Indonesia has been subject to many earthquakes in recent times. This map encodes information about the frequency distribution of earthquakes but does not display which earthquakes were the largest or the deadliest. We can expect an extraordinary earthquake to have an impact that translates into more quotes being aimed towards them. If we detect the highest peaks (on the figure below), retrieve their dates and location and find the corresponding earthquakes, we get that the earthquakes that triggered the biggest reactions are the following :
