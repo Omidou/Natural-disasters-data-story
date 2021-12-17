@@ -218,8 +218,11 @@ The parties that appear most often are those that operate in english-speaking co
 
 
 
-[Later in the article](#### Researcher vs Politicians: How does the way they speak differ ?), we will perform a bag-of-words logistic regression to differentiate researcher quotes with politician quotes.
-Having found a good fit, in [the section after it](#### Topic Detection) we will display the result of a latent Dirichlet analysis (LDA), in the hopes of detecting what are the two main topics each group is talking about.
+Later in the article, we will perform a bag-of-words logistic regression to
+differentiate researcher quotes with politician quotes. Having found a good
+fit, in the section after it we will display the result of a latent Dirichlet
+analysis (LDA), in the hopes of detecting what are the two main topics each
+group is talking about.
 
 
 ### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
@@ -270,13 +273,20 @@ We can see that politicians are much more likely to talk about terrorism or to r
 
 ### <a name="topic_detection"></a> Topic Detection
 Having found a good fit for the logistic model we decided to perform Latent Dirichlet Analysis (LDA) on the joined set of quotes.
+When clustering for two topics we see that one of the clusters is composed of aggressive words, or of words that refer to other people or places.
+By the analyses done in the previous section, we suspect that this aggressive cluster is closely tied to the quotes spoken by politicians.
 
 <a href="figures/lda_res_pol.html">*See the LDA on a standalone page*</a>
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: contain; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; margin-left: 0px" frameborder='0' ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
 
+The other cluster seems to talk about things that are generally related to natural disaster. Let's see if we can break it up into sub-topics by increasing the number of clusters. <a href="figures/lda_res_pol_6.html">On this page</a> we can see the result of breaking up the quotes into more clusters. We see that even then, the topics remain together, indicating that separating in two was most likely a good choice.
 
-<br><br>
+Finally, on <a href="figures/lda_res_pol_30.html">this page</a> we can see the result of breaking up the quotes into 30 topics. A few things to note are
 
+* Australia and bushfires get their own separate topic. Probably relating to the devastating forest fires of early 2020.
+* There is a topic relating Donald Trump and hurricanes.
+* The general topic about natural disasters remains mostly whole, although a few sub-topics related to particular places do split off.
+* There is a large topic dedicated to the discussion of Qasem Soleimani.
 
 ## <a name="conclusion"></a> Conclusion
-blabla
+TODO
