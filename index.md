@@ -222,7 +222,7 @@ Having found a good fit, in [the section after it](#### Topic Detection) we will
 
 ### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
 We decide to turn our attention to the vocabulary used by politicians and researchers. How do they approach tragic events such as natural disasters?
-We have created a model that is capable of identifying whether a certain quote is being spoken by a politician or a researcher with a high degree of certainty (greater than 99.5%). We found that the most indicative words for the two groups were the following.
+We have created a model that is capable of identifying whether a certain quote is being spoken by a politician or a researcher with a high degree of certainty (greater than 99.5%). We found that the 30 most representative words for the two groups were the following.
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
@@ -230,15 +230,45 @@ We have created a model that is capable of identifying whether a certain quote i
         }
 </style>
 
-| P | Q | P * Q |
-| - | - | - |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| Researchers | Politicians    |
+| -           | -              |
+| drought     | president      |
+| season      | louisiana      |
+| community   | state          |
+| between     | terrorist      |
+| fires       | attack         |
+| chemicals   | terrorists     |
+| there       | world          |
+| biological  | nuclear        |
+| still       | families       |
+| risk        | federal        |
+| water       | united         |
+| snow        | country        |
+| come        | states         |
+| really      | trump          |
+| quite       | comey          |
+| able        | fired          |
+| so          | weapons        |
+| however     | isis           |
+| team        | syria          |
+| conditions  | mueller        |
+| bushfire    | american       |
+| bit         | americans      |
+| can         | hurricane      |
+| which       | administration |
+| but         | afghanistan    |
+| best        | puerto         |
+| services    | who            |
+| firefighter | al             |
+| couple      | russia         |
+| australia   | rico           |
 {: .tablelines}
 
+We can see that politicians are much more likely to talk about terrorism or to refer to other places or to other people.
+
 ### <a name="topic_detection"></a> Topic Detection
+Having found a good fit for the logistic model we decided to perform Latent Dirichlet Analysis (LDA) on the joined set of quotes.
+
 <a href="figures/lda_res_pol.html">*See the LDA on a standalone page*</a>
 <div style="width: 100%; height: 80vh; text-align: center"><iframe src="figures/lda_res_pol.html" style="width: 100%; height: 100%; object-fit: contain; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px; margin-left: 0px" frameborder='0' ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div><br>
 
