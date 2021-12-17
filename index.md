@@ -1,4 +1,4 @@
-<a style="color: #47975d" href="#abstract">Abstract</a>(<br>
+<a style="color: #47975d" href="#abstract">Abstract</a> <br>
 <a style="color: #47975d" href="#what_data?">What data?</a> <br>
 <a style="color: #47975d" href="#filtered_quotes">Filtered quotes</a> <br>
 <a style="color: #47975d" href="#natural_disasters_in_the_world">Natural disasters in the world</a> <br>
