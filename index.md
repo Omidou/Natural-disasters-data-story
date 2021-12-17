@@ -1,15 +1,13 @@
-<a href="#abstract">Abstract</a>(<br>
-<a href="#what_data?">What data?</a> <br>
-<a href="#filtered_quotes">Filtered quotes</a> <br>
-<a href="#natural_disasters_in_the_world">Natural disasters in the world</a> <br>
-<a href="#earthquakes_case_study">Earthquakes: case study</a> <br>
-<a href="#natural_disasters_in_the_us">Natural disasters in the US</a> <br>
-<a href="#hurricanes_case_study">Hurricanes: case study</a> <br>
-<a href="#analysis_of_speakers">Analysis of speakers</a> <br>
-<a href="#topic_detection">Topic detection</a> <br>
-<a href="#conclusion">Conclusion</a> <br>
-
-
+<a style="color: #47975d" href="#abstract">Abstract</a>(<br>
+<a style="color: #47975d" href="#what_data?">What data?</a> <br>
+<a style="color: #47975d" href="#filtered_quotes">Filtered quotes</a> <br>
+<a style="color: #47975d" href="#natural_disasters_in_the_world">Natural disasters in the world</a> <br>
+<a style="color: #47975d" href="#earthquakes_case_study">Earthquakes: case study</a> <br>
+<a style="color: #47975d" href="#natural_disasters_in_the_us">Natural disasters in the US</a> <br>
+<a style="color: #47975d" href="#hurricanes_case_study">Hurricanes: case study</a> <br>
+<a style="color: #47975d" href="#analysis_of_speakers">Analysis of speakers</a> <br>
+<a style="color: #47975d" href="#topic_detection">Topic detection</a> <br>
+<a style="color: #47975d" href="#conclusion">Conclusion</a> <br>
 
 <style>
 p{
