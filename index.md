@@ -284,7 +284,7 @@ Finally, on <a href="figures/lda_res_pol_30.html">this page</a> we can see the r
 
 ## <a name="conclusion"></a> Final words
 <p>
-The goal was to work with quotes from the QuoteBank database, in this case we were interested in observing what the quotations told us about natural disasters ocurrences in the world. We were able to pinpoint temporally and geographically various types of catastrophes from the quotes and verify the outcomes through ground truth dataset. The next step was to look more in depth at the speakers. We observed the main topics represented in their speeches and also their occupations and political affiliation. We concluded that it was indeed easily possible to differentiate between politician and researcher, as they have distinct vocabularies. </br>
+The goal was to work with quotes from the QuoteBank database, in this case we were interested in observing what the quotations told us about natural disasters ocurrences in the world. We were able to pinpoint temporally and geographically various types of catastrophes from the quotes and verify the outcomes through ground truth dataset. The next step was to look more in depth at the speakers. We observed the main topics represented in their speeches and also their occupations and political affiliation. We concluded that it was indeed easily possible to differentiate between politician and researcher, as they have distinct vocabularies.<br>
 To conclude, there were many ways to exploit the given dataset, as it was very rich and complete. A lot of other analyses, based on machine learning for instance, were possible even with the subject of natural disasters, but might have required more data.
 </p>
 
