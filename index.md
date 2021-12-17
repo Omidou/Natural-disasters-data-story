@@ -2,11 +2,12 @@
 <a style="color: #47975d" href="#what_data?">What data?</a> <br>
 <a style="color: #47975d" href="#filtered_quotes">Filtered quotes</a> <br>
 <a style="color: #47975d" href="#natural_disasters_in_the_world">Natural disasters in the world</a> <br>
-<a style="color: #47975d" href="#earthquakes_case_study">Earthquakes: case study</a> <br>
+- <a style="color: #47975d" href="#earthquakes_case_study">Earthquakes: case study</a> <br>
 <a style="color: #47975d" href="#natural_disasters_in_the_us">Natural disasters in the US</a> <br>
-<a style="color: #47975d" href="#hurricanes_case_study">Hurricanes: case study</a> <br>
+- <a style="color: #47975d" href="#hurricanes_case_study">Hurricanes: case study</a> <br>
 <a style="color: #47975d" href="#analysis_of_speakers">Analysis of speakers</a> <br>
-<a style="color: #47975d" href="#topic_detection">Topic detection</a> <br>
+- <a style="color: #47975d" href="#researcher_vs_politicians">Researcher vs Politicians: How does the way they speak differ ?</a> <br>
+- <a style="color: #47975d" href="#topic_detection">Topic detection</a> <br>
 <a style="color: #47975d" href="#conclusion">Conclusion</a> <br>
 
 <style>
@@ -242,7 +243,7 @@ analysis (LDA), in the hopes of detecting what are the two main topics each
 group is talking about.
 
 
-### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
+### <a name="researcher_vs_politicians"></a> Researcher vs Politicians: How does the way they speak differ ?
 We decide to turn our attention to the vocabulary used by politicians and researchers. How do they approach tragic events such as natural disasters?
 We have created a model that is capable of identifying whether a certain quote is being spoken by a politician or a researcher with a high degree of certainty (greater than 99.5%). We found that the ten most representative words for the two groups were the following.
 
