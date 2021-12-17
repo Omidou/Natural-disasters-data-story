@@ -100,6 +100,17 @@ From the different scales used here for each disaster type, we deduce that the U
 ### <a name="hurricanes_case_study"></a> Hurricanes: case study
 
 <p>
+It is well known that hurricanes have been constantly causing troubles in the United States. The interactive map above already suggests that some areas of the country are more subject to being disrupted by hurricanes, let's have a look at the quotes to see what interesting findings we can find in them. The location of disasters can also be partly inferred from the quotes either by looking for names of states or cities in the quotes, or by comparing the dates of the peaks in frequency with the ground truth dataset of natural disasters and extracting the location. Here is an example of all the quotes that contain a state name :
+</p>
+
+<div style="text-align: center"><img src="figures/state_hurr_dist.png"/>Count of quotes containing each state name</div>
+
+<p>
+blabla
+</p>
+<div style="text-align: center"><img src="figures/florida.png"/>Frequency of quotes containing 'Florida' or 'Tallahassee'</div>
+
+<p>
 <ul>
   <li>Talk about quotes => distribution across all states</li>
   <li>Compare two maps</li>
@@ -107,16 +118,8 @@ From the different scales used here for each disaster type, we deduce that the U
 </ul>
 </p>
 
-<div style="text-align: center"><img src="figures/florida.png"/>Frequency of quotes containing 'Florida' or 'Tallahassee'</div>
-
-<div style="text-align: center"><img src="figures/state_hurr_dist.png"/>Count of quotes containing each state name</div>
 
 
-Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
-
-<div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/43467181/145830940-40e02dd2-6204-4079-ac4a-7693afefef70.png" />
-</div>
 
 Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
 Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
