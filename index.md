@@ -208,7 +208,9 @@ We see that the most frequent speakers are researchers followed by politicians. 
 In the following graph we have plotted the distribution of the ten most common political affiliations among our speakers.
 </p>
 
+<div style="text-align: center;">
 <img src="figures/parties.png"/>
+</div>
 
 <p>
 The parties that appear most often are those that operate in english-speaking countries. This is unsurprising given that we work with english quotes.
