@@ -100,7 +100,7 @@ From the different scales used here for each disaster type, we deduce that the U
 ### <a name="hurricanes_case_study"></a> Hurricanes: case study
 
 <p>
-It is well known that hurricanes have been constantly causing troubles in the United States. The interactive map above already suggests that some areas of the country are more subject to being disrupted by hurricanes, let's have a look at the quotes to see what interesting findings we can find in them. The location of disasters can also be partly inferred from the quotes either by looking for names of states or cities in the quotes, or by comparing the dates of the peaks in frequency with the ground truth dataset of natural disasters and extracting the location. Here is an example of all the quotes that contain a state name :
+It is well known that hurricanes have been constantly causing troubles in the United States. The interactive map above already suggests that some areas of the country are more subject to being disrupted by hurricanes, let's have a look at the quotes to see what interesting findings we can find in them. The location of disasters can also be partly inferred from the quotes either by looking for names of states or cities in the quotes, or by comparing the dates of the peaks in frequency with the ground truth dataset of natural disasters and extracting the location. Here is an example of all the quotes that contain a state name.
 </p>
 
 <div style="text-align: center"><img src="figures/state_hurr_dist.png"/>Count of quotes containing each state name</div>
@@ -111,27 +111,15 @@ From the above figure, we see that Florida comes out on top by a mile, then come
 
 <div style="text-align: center"><img src="figures/florida.png"/><br>Frequency of quotes containing 'Florida' or 'Tallahassee'</div>
 
-<!---
-<figure style="text-align: center; display: inline-block; float: right; margin: 0px 0px 12px 15px; max-width: 55%"><img src="figures/iran.png"><figcaption>Frequency of quotes related to earthquakes in Iran</figcaption></figure>
--->
-
 <p>
-If we compare the shape and the time distribution of the main peaks, we see that it looks fairly similar to the distribution of all the quotes containing 'hurricane' (see figure in <a href="#filtered_quotes">Filtered quotes</a>). This means that the events occurring in Florida make up for most of the concern driven towards hurricanes in the news. 
+If we compare the shape and the time distribution of the main peaks, we see that it looks fairly similar to the distribution of all the quotes containing 'hurricane' (see figure in <a href="#filtered_quotes">Filtered quotes</a>). This means that the events occurring in Florida make up for most of the concern driven towards hurricanes in the news. When retrieving its date, the main peak occurring in 2017 is actually the same one as the highest peak in the overall distribution of the quotes also displayed in <a href="#filtered_quotes">this section</a>. When looking at the quotes, this peak in frequency was caused by <a href="https://en.wikipedia.org/wiki/Hurricane_Irma">Hurricane Irma</a>, which caused major damage in the US in September 2017, in particular in Florida, Georgia and North Carolina. <br>
+In addition to that, we notice a pattern of recurrence in the quotes related to Florida and hurricanes towards the end of every year. This is due to an interesting phenomenon seasonality that causes the hurricanes to be more likely to occur at the same time every year. It comes under the name of <a href="https://www.nhc.noaa.gov/climo/">Hurricane Season> and is due to the transfer of heat originating from tropical waters to colder waters, explaining the higher rate of hurricanes around Florida as the waters start to cool down around September every year, causing hurricanes to move to these areas. <br>
+We can now try to use the data from the quotes to build a state-wise spatial distribution of the occurence of hurricanes in the US. The ground truth map is also displayed below as a mean of comparison.
 </p>
+  
+<div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/quote_us_map.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Reconstructed map of the occurrence of hurricanes in the US</div><br>
 
-<p>
-<ul>
-  <li>Talk about quotes => distribution across all states</li>
-  <li>Compare two maps</li>
-  <li>Hurricane seasonality observable in the quotes => show cyclic peaks</li>
-</ul>
-</p>
-
-
-
-
-Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
-Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
+<div style="width: 100%; height: 80vh; text-align: center; vertical-align: middle;"><iframe src="figures/us_hurr_map_no_quote.html" style="width: 100%; height: 100%; text-align: center; background-color: transparent; border: 0px none transparent; padding: 0px;"></iframe>Ground truth map of the occurrence of hurricanes in the US</div><br>
 
 <!---
 <p>Map Test 18</p>
