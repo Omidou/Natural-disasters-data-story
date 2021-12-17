@@ -1,11 +1,11 @@
 [Abstract](#abstract) <br>
 [What data?](#what_data?) <br>
-[ Filtered quotes](#filtered_quotes) <br>
+[Filtered quotes](#filtered_quotes) <br>
 [Natural disasters in the world](#natural_disasters_in_the_world) <br>
-[ Earthquakes : case study](#earthquakes_case_study) <br>
+[Earthquakes: case study](#earthquakes_case_study) <br>
 [Natural disasters in the US](#natural_disasters_in_the_us) <br>
 [Analysis of speakers](#analysis_of_speakers) <br>
-[ Topic detection](#topic_detection) <br>
+[Topic detection](#topic_detection) <br>
 [Conclusion](#conclusion)
   
 <style>
@@ -168,8 +168,8 @@ TO ADD THE INTERACTIVE PLOT
 With a quick look at the frequency of natural disasters key words in the quotations, one can observe peaks that most likely indicate the crisis. <br/>
 
 <div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/43467181/145828341-c93ade7f-1cfd-401d-8849-c8c51b9c1da2.png" width="450" />
-  <img src="https://user-images.githubusercontent.com/43467181/145828332-d9097924-8e90-440b-a532-539ca9ce9f7c.png"  width="450" /> 
+  <img src="https://user-images.githubusercontent.com/43467181/146544955-4774f3da-0853-40b7-a6e0-e41eae44b331.png" width="450" />
+  <img src="https://user-images.githubusercontent.com/43467181/146545042-cc04ef52-f622-40a5-a485-d45555bcd43d.png"  width="450" /> 
 </div>
 
 These can be easily verified with the ground truth dataset. <br/>
