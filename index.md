@@ -227,7 +227,7 @@ group is talking about.
 
 ### <a name="logistic_regression"></a> Researcher vs Politicians: How does the way they speak differ ?
 We decide to turn our attention to the vocabulary used by politicians and researchers. How do they approach tragic events such as natural disasters?
-We have created a model that is capable of identifying whether a certain quote is being spoken by a politician or a researcher with a high degree of certainty (greater than 99.5%). We found that the 30 most representative words for the two groups were the following.
+We have created a model that is capable of identifying whether a certain quote is being spoken by a politician or a researcher with a high degree of certainty (greater than 99.5%). We found that the ten most representative words for the two groups were the following.
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
@@ -247,26 +247,6 @@ We have created a model that is capable of identifying whether a certain quote i
 | biological  | nuclear        |
 | still       | families       |
 | risk        | federal        |
-| water       | united         |
-| snow        | country        |
-| come        | states         |
-| really      | trump          |
-| quite       | comey          |
-| able        | fired          |
-| so          | weapons        |
-| however     | isis           |
-| team        | syria          |
-| conditions  | mueller        |
-| bushfire    | american       |
-| bit         | americans      |
-| can         | hurricane      |
-| which       | administration |
-| but         | afghanistan    |
-| best        | puerto         |
-| services    | who            |
-| firefighter | al             |
-| couple      | russia         |
-| australia   | rico           |
 {: .tablelines}
 
 We can see that politicians are much more likely to talk about terrorism or to refer to other places or to other people.
