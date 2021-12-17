@@ -51,6 +51,16 @@ On the other hand, the separate distributions in time of each natural disaster o
 
 <p style="text-align: center"><img src="figures/nd_quote_distribution.png" /><br>Specific distribution of the quotes over time for each natural disaster type of interest</p>
 
+Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
+
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/43467181/145830940-40e02dd2-6204-4079-ac4a-7693afefef70.png" />
+</div>
+
+Unsurprisingly, quotes that talk about hurricanes also frequently mention Florida and Texas. <br/>
+Hence there is enough data to start constructing a spatial and temporal map of natural disasters. <br/>
+
+
 ## <a name="natural_disasters_in_the_world"></a> Natural disasters in the world
 
 <p>
@@ -163,6 +173,8 @@ TO ADD THE INTERACTIVE PLOT
 <div style="width: 100vw; height: 100vh; text-align: center"><iframe style="width: 100%; height: 100%; -webkit-transform: scale(0.6); -moz-transform: scale(0.6); -webkit-transform-origin: top left;" src="figures/lda_res_pol.html" ></iframe>Topic detection of quotes where the speaker is a politician or a researcher</div>
 -->
 
+
+<!--- Useless ?
 #### Exploration
 
 With a quick look at the frequency of natural disasters key words in the quotations, one can observe peaks that most likely indicate the crisis. <br/>
@@ -178,6 +190,8 @@ Note that with some inspection, one can notice that some quotes contain natural 
 <div style="text-align: center;">
   <img src="https://user-images.githubusercontent.com/43467181/145827748-b9c84c5a-4a11-4598-b219-a6ccaa331aee.png" />
 </div>
+
+-->
 
 Furthermore, the location of the disaster can also be found in those quotes either by looking for states or cities inside the quotations or by comparing the dates of the frequency peaks with the ground truth dataset of natural crises and extracting the location. Here is an example for hurricanes. <br/>
 
